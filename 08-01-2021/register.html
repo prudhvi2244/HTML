@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Page</title>
+</head>
+<body>
+    
+<h2>Registration Page</h2>
+<hr/>
+
+  <form>
+  <p>First Name : <input /></p>
+  <p>Last Name : <input /></p>
+  <p>Mobile : <input /></p>
+  <p>Email : <input /></p>
+  <p>Gender : 
+      <input type="radio" name="gender"/>Male
+      <input type="radio" name="gender"/>Female
+  </p>
+
+  <p>
+      Skills :
+      <input type="checkbox"/>Java
+      <input type="checkbox"/>Python
+      <input type="checkbox"/>Oracle
+      <input type="checkbox"/>Angular
+      <input type="checkbox"/>React JS
+  </p>
+  <p>
+      City :
+      <select>
+          <option>--Select Your City--</option>
+          <option>Vijayawada</option>
+          <option>Hyderabad</option>
+          <option>Goa</option>
+          <option>Hyderabad`</option>
+          <option>Vizag</option>
+      </select>
+  </p>
+  <p>
+      State :
+      <input list="states"/>
+      <datalist id="states">
+          <option value="Karnataka"/>
+          <option value="Kerala"/>
+          <option value="Maharastra"/>
+          <option value="Andhra Pradesh"/>
+          <option value="Telangana"/>
+          <option value="Goa"/>
+          <option value="Madhya Pradesh"/>
+      </datalist>
+  </p>
+  <button>Register</button>
+</form>
+</body>
+</html>
