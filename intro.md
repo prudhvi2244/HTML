@@ -52,7 +52,7 @@
 
 # Nesting elements
 * You can put elements inside other elements too — this is called nesting. 
-* If we wanted to state that  "Welocome TO HTML By Raj Prudhvi", we could wrap the word "Raj Prudhvi" in a "strong" element, which means that the word is to be strongly emphasized
+* If we wanted to state that  "Welcome To HTML By Raj Prudhvi", we could wrap the word "Raj Prudhvi" in a "strong" element, which means that the word is to be strongly emphasized
 
         <h1>Welcome To HTML <strong>By RAJ</strong></h1>
 
