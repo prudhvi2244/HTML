@@ -20,6 +20,7 @@
         </html>
 
 * !DOCTYPE html - It is a required preamble. In the mists of time, when HTML was young (around 1991/92), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML, which could mean automatic error checking and other useful things. However these days, they don't do much and are basically just needed to make sure your document behaves correctly.
+* This declaration defines that this document is an HTML5 document
 
 * html - the "html" element. This element wraps all the content on the entire page and is sometimes known as the root element.
 
