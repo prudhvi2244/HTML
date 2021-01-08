@@ -32,22 +32,22 @@ tag and the body tag
 * The metadata will not be displayed on the page, but are used by browsers (how to display content or reload page), by search engines (keywords), and other web services.
 
 
-    * Define the character set used:
+        * Define the character set used:
         <meta charset="UTF-8">
 
-    * Define keywords for search engines:
+        * Define keywords for search engines:
         <meta name="keywords" content="HTML, CSS, JavaScript , Jquery">
 
-    * Define a description of your web page:
+        * Define a description of your web page:
         <meta name="description" content="Concepts On Html Elements">
 
-    * Define the author of a page:
+        * Define the author of a page:
         <meta name="author" content="Raj Prudhvi">
 
-    * Refresh document every 30 seconds:
+        * Refresh document every 30 seconds:
         <meta http-equiv="refresh" content="30">
 
-    * Setting the viewport to make your website look good on all devices:
+        * Setting the viewport to make your website look good on all devices:
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 # Setting The Viewport
