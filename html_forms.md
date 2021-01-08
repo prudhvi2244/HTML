@@ -70,13 +70,13 @@ Here are the different input types you can use in HTML:
 # The "button" Element
 * The "button" element defines a clickable button
 
-# The fieldset and legend Elements
-* The fieldset element is used to group related data in a form.
-* The legend element defines a caption for the fieldset element.
+# The "fieldset" and "legend" Elements
+* The "fieldset" element is used to group related data in a form.
+* The "legend" element defines a caption for the fieldset element.
 
 # The "datalist" Element
 * The "datalist" element specifies a list of pre-defined options for an "input" element.
 * Users will see a drop-down list of the pre-defined options as they input data.
-* The list attribute of the "input" element, must refer to the "id" attribute of the "datalist" element.
+* The "list" attribute of the "input" element, must refer to the "id" attribute of the "datalist" element.
 
 
