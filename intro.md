@@ -19,7 +19,7 @@
         </body>
         </html>
 
-* <!DOCTYPE html> — doctype. It is a required preamble. In the mists of time, when HTML was young (around 1991/92), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML, which could mean automatic error checking and other useful things. However these days, they don't do much and are basically just needed to make sure your document behaves correctly.
+* !DOCTYPE html - It is a required preamble. In the mists of time, when HTML was young (around 1991/92), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML, which could mean automatic error checking and other useful things. However these days, they don't do much and are basically just needed to make sure your document behaves correctly.
 
 * html - the "html" element. This element wraps all the content on the entire page and is sometimes known as the root element.
 
@@ -52,8 +52,9 @@
 
 # Nesting elements
 * You can put elements inside other elements too — this is called nesting. 
-* If we wanted to state that  "Welocome TO HTML By Raj Prudhvi", we could wrap the word "Raj Prudhvi" in a <strong> element, which means that the word is to be strongly emphasized
-* 
+* If we wanted to state that  "Welocome TO HTML By Raj Prudhvi", we could wrap the word "Raj Prudhvi" in a "strong" element, which means that the word is to be strongly emphasized
+
+        <h1>Welcome To HTML <strong>By RAJ</strong></h1>
 
 
 
