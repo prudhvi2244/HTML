@@ -50,3 +50,24 @@ tag and the body tag
     * Setting the viewport to make your website look good on all devices:
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+# Setting The Viewport
+* The viewport is the user's visible area of a web page. It varies with the device - it will be smaller on a mobile phone than on a computer screen.
+
+* You should include the following <meta> element in all your web pages:
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+* This gives the browser instructions on how to control the page's dimensions and scaling.
+
+* The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
+
+* The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by the browser.
+
+# The HTML "script" Element
+* The "script" element is used to define client-side JavaScripts.
+
+# The HTML "base" Element
+* The "base" element specifies the base URL and/or target for all relative URLs in a page.
+* The "base" tag must have either an href or a target attribute present, or both.
+* There can only be one single "base" element in a document!
+
