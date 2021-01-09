@@ -8,6 +8,7 @@ Using Emojis in HTML
 * This is specified in the <meta> tag
 
   <meta charset="UTF-8">
+
 * If not specified, UTF-8 is the default character set in HTML
 
 Emoji Characters:
