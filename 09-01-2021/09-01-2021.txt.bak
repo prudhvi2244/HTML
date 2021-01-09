@@ -1,0 +1,23 @@
+Using Emojis in HTML
+* Emojis are characters from the UTF-8 character set
+* Emojis look like images, or icons, but they are not
+* UTF-8 covers almost all of the characters and symbols in the world
+* The HTML charset Attribute
+* To display an HTML page correctly, a web browser must know the character set used in the page.
+* This is specified in the <meta> tag
+
+  <meta charset="UTF-8">
+* If not specified, UTF-8 is the default character set in HTML
+
+Emoji Characters:
+========================
+* Emojis are also characters from the UTF-8 alphabet:
+
+😄 is 128516
+😍 is 128525
+💗 is 128151
+
+* Since Emojis are characters, they can be copied, displayed, and sized just like any other character 
+  in HTML.
+
+
